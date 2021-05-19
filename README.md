@@ -1,0 +1,2 @@
+# LSTM_CNN
+LSTM隐藏层采用CNN
